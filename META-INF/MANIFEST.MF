@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: FreeShopingTest
+Bundle-SymbolicName: FreeShopingTest
+Bundle-Version: 1.0.0.qualifier
+Export-Package: com.flipKart.qa.base,
+ com.flipKart.qa.config,
+ com.flipKart.qa.pages,
+ com.flipKart.qa.testcases,
+ com.flipKart.qa.utils

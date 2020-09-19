@@ -1,0 +1,8 @@
+com/flipKart/qa/pages/HomePage.class
+com/flipKart/qa/pages/LoginPage.class
+com/flipKart/qa/pages/ContactPage.class
+com/flipKart/qa/utils/TestUtil.class
+com/flipKart/qa/pages/SignUpPage.class
+com/flipKart/qa/pages/AddtoCartPage.class
+com/flipKart/qa/base/TestBase.class
+com/flipKart/qa/pages/RegistrationPage.class
